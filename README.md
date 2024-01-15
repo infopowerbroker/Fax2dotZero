@@ -11,9 +11,9 @@ The script will work with members of OldCWs that have been added to the whitelis
 Here is how it works:
 ---------------------
 At the top of your script, add the following statement:
-<pre>
+<code>
 import <Fax2dotZero.ash>
-</pre>
+</code>
 
 then to get your monster, put the name into a string in the script, either directly in the code (shown in the example below), or as a per-character preference. 
 <pre>
